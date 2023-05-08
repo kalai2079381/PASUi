@@ -1,5 +1,12 @@
+@import "~bootstrap/dist/css/bootstrap.css";
 @import "global/_global.scss";
+
 body{
     background-color: $primary-color ;
     color: $page-title-color;
+    font-family: inter-regular;
+}
+h2{
+    font-size: 1.4em;
+    text-align: center;
 }
